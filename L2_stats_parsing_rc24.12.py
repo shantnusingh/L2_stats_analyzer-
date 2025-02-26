@@ -11,6 +11,7 @@ import pandas as pd
 import os
 import glob
 import sys
+import xlsxwriter
 
 '''
 class for du statistics, constructor initializes objects from config.ini file.
